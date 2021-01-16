@@ -1,0 +1,3 @@
+%{
+  "error": {:git, "git@github.com:genomekon/ex-error.git", "ca84764908c840f2df9928cb03f7c5527a7296ac", []},
+}
